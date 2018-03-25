@@ -1,6 +1,6 @@
 # This Dockerfile builds an image with which you can remotely control any application using xpra
 
-FROM samyco/xpra:debian-stretch
+FROM samyco/docker-xpra:debian-stretch
 
 MAINTAINER Samy Coenen "contact@samycoenen.be"
 
