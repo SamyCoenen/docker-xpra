@@ -1,4 +1,4 @@
-# docker-xpra java applets
+# docker-xpra
 This is a Docker image to run a virtual window (framebuffer) which is controlled remotely with xpra with xterm installed.
 
 The major advantage of xpra is that you can access application windows instead of an entire desktop making it very performant.
